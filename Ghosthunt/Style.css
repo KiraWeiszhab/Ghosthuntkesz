@@ -1,0 +1,54 @@
+@import url('https://fonts.cdnfonts.com/css/the-halloween');
+
+body {
+    background-image: linear-gradient(rgb(29, 2, 2), rgb(0, 0, 0));
+    background-color: black;
+    background-position: center, ;
+    background-repeat: no-repeat;
+    font-family: 'The Halloween', sans-serif;
+    font-size: 10px;
+    color: rgb(188, 255, 191);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #000000;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #000000;
+    color: rgb(0, 0, 0);
+  }
+
+  .active {
+    background-color: #04AA6D;
+    color: rgb(165, 233, 169);
+  }
+
+h1 {
+    color: rgb(90, 7, 7);
+}  
+                
+h2 {
+    color: rgb(114, 0, 0);
+}
+
+.h3{
+    color: rgb(46, 16, 2);
+}
+
+div{
+    text-align: center;
+
+}
+
